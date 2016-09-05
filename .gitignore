@@ -1,0 +1,5 @@
+# Ignore HUD, a lot of binary files
+rayshud/
+
+# We could do the same with maps, but I don´t think they'll change a lot
+# maps/
